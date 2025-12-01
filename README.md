@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RoosterRoo/results-summary)
-- Live Site URL: [Add live site URL here](https://roosterroo.github.io/results-summary/)
+- Solution URL: [Results Summary Component Repo](https://github.com/RoosterRoo/results-summary)
+- Live Site URL: [Results Summary Component Website](https://roosterroo.github.io/results-summary/)
 
 ## My process
 
